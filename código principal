@@ -8,13 +8,13 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar do Gui" class="rounded-circle" width="150" height="150"
             srcset="">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
-        <h1>Eu ensino Programação</h1>
-        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-@@ -27,192 +25,22 @@ <h1>Eu ensino Programação</h1>
+        <img src="img/avatar-perfil.png" alt="avatar do Gui" class="rounded-circle" width="150" height="150" srcset="">
+        <p class="lead">Eu sou Gui</p>
+        <h1>Eu estudo no ensino Médio</h1>
+        <p>Sou jogador de RPG
+@@ -27,192 +25,22 @@ <h1>Eu estudo Programação</h1>
             <p class="badge bg-secondary">Scratch</p>
         </div>
     </header>
@@ -25,15 +25,12 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de auto-apresentação virtual">
                 <div class="card" style="width: 18rem;">
                     <img src="..." class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
-                        <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
-                            favoritos, incluindo informações sobre os autores, datas de publicação e links para compra
-                            na Amazon. A página é estilizada com CSS para uma visualização agradável e usa fontes
-                            externas do Google Fonts.
+                        <p class="card-text">Este projeto é uma página web que apresenta minha pessoa
                         </p>
                         <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Veja
                             o projeto</button>
@@ -46,7 +43,7 @@
             <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de auto-apresentação virtual">
                     <div class="card-body">
                         <h5 class="card-title">Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência
                             Artificial</h5>
